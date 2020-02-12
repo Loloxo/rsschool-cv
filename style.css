@@ -1,0 +1,83 @@
+body{
+    color: navy;
+    background-color: dimgray;
+    max-width: 1024px;
+    height: auto;
+}
+
+h1{    
+    position: fixed;
+    left: 60%; top: 0px;
+}
+
+h2{      
+    position: fixed;
+    left: 58%; top: 30px;    
+}
+
+
+.contactTh{
+    border: 3px solid black;
+    padding: 10px;
+}
+
+.contactTd{
+    border: 3px solid black;
+    padding: 10px;
+}
+
+.photo{
+    border-radius: 20%; 
+}
+footer{
+    position: fixed;
+    left: 0; bottom: 0;
+    width: 1024px;
+    height: 50px;
+    background-color: coral;
+}
+
+.navigationPanel{
+    position: sticky;
+    left: 80%; top: 250px;
+    background-color: azure; 
+}
+
+.navTh{
+    padding: 20px;
+}
+
+.navTd{
+    padding: 20px;
+}
+
+.navTr1{
+    background-color: olive;
+}
+
+.navTr2{
+    background-color: palevioletred;
+}
+
+.navTr3{
+    background-color: seagreen;
+}
+
+.navTr4{
+    background-color: yellow;
+}
+
+.navTr5{
+    background-color: tomato;
+}
+
+.navTr6{
+    background-color: orchid;
+}
+
+
+.contactTable{
+    margin: 5%;
+    border-collapse: collapse;
+    padding: 10px;
+}
